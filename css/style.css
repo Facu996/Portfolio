@@ -526,10 +526,10 @@ margin-bottom: 1rem;
 }
 
 /*Responsivo*/
-@media (max-width:990px){
+@media (max-width: 900px){
   .container{
     margin: 0 auto;
-    width: 900%;
+    width: 90%;
   }
 }
 @media (max-width:892px){
@@ -547,9 +547,6 @@ margin-bottom: 1rem;
   }
 }
 @media (max-width:775px){
-  /*.nav{
-    padding: 10px 0;
-  }*/
   .logo{
     font-size: 1.1rem;
   }
@@ -625,8 +622,8 @@ font-size: 0.9rem;
   padding-top: 5rem;
 }
 .home-img{
-  width: 140px;
-  height: 140px;
+  width: 150px;
+  height: 150px;
 }
 .home-text h2{
   font-size: 2.1rem;
